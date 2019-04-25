@@ -1,5 +1,5 @@
 # 启动
-npm run 
+npm start 
 
 # 安装redux saga 
 npm install --save redux-saga
